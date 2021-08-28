@@ -1,0 +1,7 @@
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\bin\Debug\SubtractingTwoNumbers.exe.config
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\bin\Debug\SubtractingTwoNumbers.exe
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\bin\Debug\SubtractingTwoNumbers.pdb
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\obj\Debug\SubtractingTwoNumbers.csproj.AssemblyReference.cache
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\obj\Debug\SubtractingTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\obj\Debug\SubtractingTwoNumbers.exe
+D:\Users\Joseph\source\repos\SubtractingTwoNumbers\obj\Debug\SubtractingTwoNumbers.pdb
